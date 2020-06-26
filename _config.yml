@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Lokesh Bhati
-title: VLSI Verfication Enginner
+title: VLSI Verfication Engineer
 email: lokeshbhati1998@gmail.com
 website: www.github.com/Bhati1998
 
@@ -24,7 +24,7 @@ youtube_username: Techatronics
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Lokesh and I'm a VLSI Verification Enginner. As well as Embedded systems I also have experience making web pages.
+  Hi, my name's Lokesh and I'm a VLSI Verification Engineer. As well as Embedded systems I also have experience making web pages.
   I am most skilled in: <mark>VLSI</mark> and <mark>Eating Pizza :)</mark>
 
 # Projects Section
