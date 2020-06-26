@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: lokesh/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Lokesh Bhati
+title: VLSI Enginner
+email: lokeshbhati1998@gmail.com
+website: www.github.com/lokesh/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: lokesh_bhati_
+github_username:  Bhati1998
+# dribbble_username: lokesh_bhati_
+# facebook_username: lokesh_bhati_
+# flickr_username: lokesh_bhati_
+instagram_username: lokesh_bhati_
+linkedin_username: lokesh-bhati
+# pinterest_username: lokesh-bhati
+youtube_username: Lokesh Bhati
+# googleplus_username: lokesh-bhati
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Lokesh Bhati and I'm a VLSI Verification Enginner. As well as embedded systems I also have experience making webpages and android apps. I have worked at a Aarmontech companie gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>IOT</mark> and <mark>Eating Pizza :)</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,21 +40,19 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in electronics &communication engineering some of my other interests and hobbies are:
+   - Sketching
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: lokesh/resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+ - lokesh-seo-tag
