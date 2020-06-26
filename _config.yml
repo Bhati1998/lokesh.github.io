@@ -1,12 +1,12 @@
 # Site
-repository: lokesh/resume-theme
+repository: Bhati1998/lokesh.github.io
 favicon: images/favicon.ico
 
 # Personal info
 name: Lokesh Bhati
 title: VLSI Enginner
 email: lokeshbhati1998@gmail.com
-website: www.github.com/lokesh/resume-theme
+website: www.github.com/Bhati1998/lokesh.github.io
 
 # Social links
 twitter_username: lokesh_bhati_
@@ -48,11 +48,11 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: lokesh/resume-theme
+remote_theme: jekyll/resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - lokesh-seo-tag
+ - jekyll-seo-tag
